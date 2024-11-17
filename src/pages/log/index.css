@@ -1,0 +1,41 @@
+#inicio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+#una { 
+    width: 125px;
+    height: 100px;
+}
+
+#calendario {
+    width: 382px;
+    height: 329px;
+}
+
+#inicio input {
+    width: 302px;
+    height: 44px;
+    border-radius: 25px;
+    border: none;
+    margin: 10px;
+    color: #fff; 
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+#ver {
+    background: #73060F;
+}
+
+#ver:hover {
+    background: #400409;
+}
+
+#cin {
+    background: #BFBFBF;
+}

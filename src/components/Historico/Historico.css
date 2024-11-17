@@ -1,0 +1,37 @@
+.Card-historico{
+    margin: 20px;
+    width: 339px;
+    height: 75px;
+    background: #73060F;
+    border-radius: 20px;
+}
+.card-icons{
+    position: absolute;
+    width: 84px;
+    height: 75px;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 8px 0px 8px 0px rgba(0, 0, 0, 0.4);
+}
+.card-conteudo {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    margin-left: 90px;
+    width: 219px;
+    height: 75px;
+    color: #ffff;
+}
+.data-historico{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 339px;
+    font-size: 10px;
+    margin-top: -10px;
+}
+.nome-historico{
+    height: 37px;
+    width:118px ;
+}

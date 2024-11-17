@@ -1,0 +1,42 @@
+#login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+#login form{
+    display: flex;
+    flex-direction: column;
+}
+#login input{
+    margin: 10px;
+}
+#login input[type="text"],#login input[type="submit"] {
+    width: 302px;
+    height: 44px;
+    border: 1px solid #73060F;
+    border-radius: 18px;
+}
+#login input[type="text"]{
+    padding-left: 10px;
+    opacity: 0.6;    
+}
+#login input[type="submit"] {
+    background: #73060F;
+    color: #fff;
+    font-weight: bolder;
+}
+#checkbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#una { 
+    width: 125px;
+    height: 100px;
+}
+#img-login{
+    width: 313px; 
+    height: 313px; 
+}
